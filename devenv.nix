@@ -4,6 +4,7 @@
   # https://devenv.sh/packages/
   packages = [
     # pour erreurs pendant compilation
+    pkgs.python311
     pkgs.cmake
     pkgs.fontconfig
     pkgs.harfbuzz
